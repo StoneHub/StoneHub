@@ -34,22 +34,87 @@
 
   <main id="main">
     <section class="hero">
-      <div class="container">
-        <div class="hero-intro-row">
-          <span class="hero-name">Monroe Stone</span>
-          <span class="hero-location">Greenville, SC</span>
+      <div class="container hero-layout">
+        <div class="hero-copy">
+          <div class="hero-intro-row">
+            <span class="hero-name">Monroe Stone</span>
+            <span class="hero-location">Greenville, SC</span>
+          </div>
+          <h1>Practical software for real-world operations.</h1>
+          <p class="lead">
+            I build dependable tools that help people make decisions faster, work more clearly, and keep real operations moving.
+            My background spans software, automation, device workflows, and farm systems.
+          </p>
+          <div class="hero-actions">
+            <a class="button strong" href="mailto:monroes.awesome@gmail.com">Email Monroe</a>
+            <a class="button strong ghost" href="Monroe_Stone_Resume.pdf" download>Download Resume PDF</a>
+            <a class="button ghost" href="https://www.linkedin.com/in/monroe-stone-0a7920137/" target="_blank" rel="noreferrer">LinkedIn</a>
+            <a class="button ghost" href="https://github.com/StoneHub" target="_blank" rel="noreferrer">GitHub</a>
+          </div>
         </div>
-        <h1>Practical software for real-world operations.</h1>
-        <p class="lead">
-          I build dependable tools that help people make decisions faster, work more clearly, and keep real operations moving.
-          My background spans software, automation, device workflows, and farm systems.
-        </p>
-        <div class="hero-actions">
-          <a class="button strong" href="mailto:monroes.awesome@gmail.com">Email Monroe</a>
-          <a class="button strong ghost" href="Monroe_Stone_Resume.pdf" download>Download Resume PDF</a>
-          <a class="button ghost" href="https://www.linkedin.com/in/monroe-stone-0a7920137/" target="_blank" rel="noreferrer">LinkedIn</a>
-          <a class="button ghost" href="https://github.com/StoneHub" target="_blank" rel="noreferrer">GitHub</a>
-        </div>
+
+        <aside class="project-carousel" aria-label="Featured projects">
+          <div class="carousel-header">
+            <h2>Featured Projects</h2>
+            <p>Live projects first when available.</p>
+          </div>
+          <div class="carousel-viewport" id="project-carousel" tabindex="0" aria-live="polite">
+            <article class="carousel-slide is-active" data-project>
+              <div class="card-top">
+                <h3>Forge3D</h3>
+                <span class="tag">3D Tools</span>
+              </div>
+              <p>Desktop 3D modeling workspace with a code editor, live viewport, console, and packaged Windows installer.</p>
+              <div class="project-links dual-links">
+                <a class="button ghost small" href="https://github.com/StoneHub/forge3d-app" target="_blank" rel="noreferrer">GitHub</a>
+              </div>
+            </article>
+
+            <article class="carousel-slide" data-project>
+              <div class="card-top">
+                <h3>WikiWebMap</h3>
+                <span class="tag">Knowledge</span>
+              </div>
+              <p>Interactive knowledge-mapping project for exploring linked information in a more visual, navigable way.</p>
+              <div class="project-links dual-links">
+                <a class="button small" href="https://wikiconnectionsmap.web.app" target="_blank" rel="noreferrer">View Site</a>
+                <a class="button ghost small" href="https://github.com/StoneHub/WikiWebMap" target="_blank" rel="noreferrer">GitHub</a>
+              </div>
+            </article>
+
+            <article class="carousel-slide" data-project>
+              <div class="card-top">
+                <h3>PickMyRoute</h3>
+                <span class="tag">Routing</span>
+              </div>
+              <p>Smart route planning with simple inputs and clear outputs—built for real operators.</p>
+              <div class="project-links dual-links">
+                <a class="button ghost small" href="https://github.com/StoneHub/PickMyRoute" target="_blank" rel="noreferrer">GitHub</a>
+              </div>
+            </article>
+
+            <article class="carousel-slide" data-project>
+              <div class="card-top">
+                <h3>clawd-pager</h3>
+                <span class="tag">Ops</span>
+              </div>
+              <p>Low-friction pager for alerts and on-the-go notifications using lightweight hardware.</p>
+              <div class="project-links dual-links">
+                <a class="button ghost small" href="https://github.com/StoneHub/clawd-pager" target="_blank" rel="noreferrer">GitHub</a>
+              </div>
+            </article>
+          </div>
+          <div class="carousel-controls" aria-label="Carousel controls">
+            <button class="carousel-button" type="button" data-carousel-prev aria-label="Previous project">←</button>
+            <div class="carousel-dots" role="tablist" aria-label="Featured projects navigation">
+              <button class="carousel-dot is-active" type="button" role="tab" aria-selected="true" data-carousel-dot="0"><span class="sr-only">Forge3D</span></button>
+              <button class="carousel-dot" type="button" role="tab" aria-selected="false" data-carousel-dot="1"><span class="sr-only">WikiWebMap</span></button>
+              <button class="carousel-dot" type="button" role="tab" aria-selected="false" data-carousel-dot="2"><span class="sr-only">PickMyRoute</span></button>
+              <button class="carousel-dot" type="button" role="tab" aria-selected="false" data-carousel-dot="3"><span class="sr-only">clawd-pager</span></button>
+            </div>
+            <button class="carousel-button" type="button" data-carousel-next aria-label="Next project">→</button>
+          </div>
+        </aside>
       </div>
     </section>
 
@@ -71,51 +136,9 @@
 
     <section id="projects" class="section alt">
       <div class="container">
-        <div class="section-head">
-          <h2>Featured Projects</h2>
-          <p>Selected work focused on practical utility, clear interfaces, and real-world workflows.</p>
-        </div>
-        <div class="card-grid">
-          <article class="card project-card">
-            <div class="card-top">
-              <h3>Forge3D</h3>
-              <span class="tag">3D Tools</span>
-            </div>
-            <p>Desktop 3D modeling workspace with a code editor, live viewport, console, and packaged Windows installer.</p>
-            <div class="project-links">
-              <a class="card-link" href="https://github.com/StoneHub/forge3d-app" target="_blank" rel="noreferrer">View on GitHub →</a>
-            </div>
-          </article>
-          <article class="card project-card">
-            <div class="card-top">
-              <h3>WikiWebMap</h3>
-              <span class="tag">Knowledge</span>
-            </div>
-            <p>Interactive knowledge-mapping project for exploring linked information in a more visual, navigable way.</p>
-            <div class="project-links">
-              <a class="card-link" href="https://github.com/StoneHub/WikiWebMap" target="_blank" rel="noreferrer">View on GitHub →</a>
-            </div>
-          </article>
-          <article class="card project-card">
-            <div class="card-top">
-              <h3>PickMyRoute</h3>
-              <span class="tag">Routing</span>
-            </div>
-            <p>Smart route planning with simple inputs and clear outputs—built for real operators.</p>
-            <div class="project-links">
-              <a class="card-link" href="https://github.com/StoneHub/PickMyRoute" target="_blank" rel="noreferrer">View on GitHub →</a>
-            </div>
-          </article>
-          <article class="card project-card">
-            <div class="card-top">
-              <h3>clawd-pager</h3>
-              <span class="tag">Ops</span>
-            </div>
-            <p>Low-friction pager for alerts and on-the-go notifications using lightweight hardware.</p>
-            <div class="project-links">
-              <a class="card-link" href="https://github.com/StoneHub/clawd-pager" target="_blank" rel="noreferrer">View on GitHub →</a>
-            </div>
-          </article>
+        <div class="section-head narrow">
+          <h2>Projects</h2>
+          <p>The featured project carousel above is the quickest way to browse my current work. GitHub stays available for deeper review.</p>
         </div>
       </div>
     </section>
