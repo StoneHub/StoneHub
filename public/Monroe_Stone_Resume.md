@@ -1,6 +1,6 @@
 # Monroe Stone
 
-**Location:** Marietta, SC 29661  
+**Location:** Greenville, SC 29661  
 **Email:** monroesawesome@gmail.com  
 **LinkedIn:** https://www.linkedin.com/in/monroe-stone-0a7920137/  
 **GitHub:** https://github.com/StoneHub
