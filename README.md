@@ -21,6 +21,11 @@ I’m also the owner of **FlyingChanges Farm**, where I apply the same engineeri
 
 My path includes enterprise engineering roles, cloud development, automation/RPA work, and hands-on systems support. I care a lot about useful software, clear execution, and getting things to actually run in the real world.
 
+## Portfolio
+
+- Live site: [monroes.tech](https://monroes.tech)
+- Site source: [StoneHub/monroes-tech](https://github.com/StoneHub/monroes-tech)
+
 ## Connect
 
 - LinkedIn: [linkedin.com/in/monroe-stone-0a7920137](https://www.linkedin.com/in/monroe-stone-0a7920137/)
