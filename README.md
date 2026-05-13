@@ -1,33 +1,32 @@
-# Hey, I’m Monroe S 👋
+# Monroe Stone
 
-I’m a software engineer with experience across **Android**, **cloud platforms**, and **automation-heavy workflows**. I build practical tools that solve real problems—whether that’s mobile product work, backend systems, or AI-assisted development pipelines that speed up delivery.
+Software engineer focused on Android, cloud-backed applications, automation, and practical systems work.
 
-I’m also the owner of **FlyingChanges Farm**, where I apply the same engineering mindset to real-world operations: reliability, automation, and making systems work under everyday constraints.
+I build tools that have to survive real operating conditions: mobile clients, APIs, deployment workflows, data cleanup, internal automation, and the connective tissue between them. My work spans enterprise engineering, cloud development, automation/RPA, hands-on systems support, and independent product development.
 
-## What I work on
+I also run FlyingChanges Farm, which keeps my engineering bias grounded in day-to-day operations: reliability, maintainability, cost awareness, and systems that still work when conditions are messy.
 
-- 📱 **Mobile Engineering** (Android / WearOS, MVVM, Kotlin)
-- ☁️ **Cloud + Backend** (Azure, GCP, APIs, automation services)
-- ⚙️ **DevOps-minded workflows** (Linux, Docker, CI/CD, system reliability)
-- 🤖 **AI-assisted development** (rapid prototyping, debugging, iteration loops)
+## Core Work
 
-## Current focus
+- Android and WearOS development with Kotlin, MVVM, and mobile-first product thinking
+- Cloud and backend systems using APIs, Azure, GCP, and automation services
+- DevOps-oriented workflows across Linux, Docker, CI/CD, observability, and reliability
+- AI-assisted development where it improves prototyping, debugging, documentation, and delivery
 
-- Building and refining production-ready automation workflows
-- Shipping mobile-first tools with strong reliability and UX
-- Combining software engineering with practical operational problem-solving
+## Current Focus
 
-## Background
+- Shipping dependable mobile and web tools with clear user value
+- Turning rough operational workflows into maintained software systems
+- Building a public portfolio around useful products, not demos
+- Keeping independent business work and software engineering mutually reinforcing
 
-My path includes enterprise engineering roles, cloud development, automation/RPA work, and hands-on systems support. I care a lot about useful software, clear execution, and getting things to actually run in the real world.
+## Selected Links
 
-## Portfolio
-
-- Live site: [monroes.tech](https://monroes.tech)
-- Site source: [StoneHub/monroes-tech](https://github.com/StoneHub/monroes-tech)
-
-## Connect
-
+- Portfolio: [monroes.tech](https://monroes.tech)
+- Portfolio source: [StoneHub/monroes-tech](https://github.com/StoneHub/monroes-tech)
 - LinkedIn: [linkedin.com/in/monroe-stone-0a7920137](https://www.linkedin.com/in/monroe-stone-0a7920137/)
+
+## Contact
+
 - GitHub: [github.com/StoneHub](https://github.com/StoneHub)
-- email: monroe@flyingchangesfarm.net
+- Email: monroe@flyingchangesfarm.net
