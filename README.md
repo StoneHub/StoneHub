@@ -23,6 +23,8 @@ I also run FlyingChanges Farm, which keeps my engineering bias grounded in day-t
 ## Selected Links
 
 - Portfolio: [monroes.tech](https://monroes.tech)
+- Software catalog: [monroes.tech/software](https://monroes.tech/software)
+- Flying Changes Farm: [flyingchangesfarm.net](https://flyingchangesfarm.net)
 - Portfolio source: [StoneHub/monroes-tech](https://github.com/StoneHub/monroes-tech)
 - LinkedIn: [linkedin.com/in/monroe-stone-0a7920137](https://www.linkedin.com/in/monroe-stone-0a7920137/)
 
