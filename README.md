@@ -30,4 +30,4 @@ My path includes enterprise engineering roles, cloud development, automation/RPA
 
 - LinkedIn: [linkedin.com/in/monroe-stone-0a7920137](https://www.linkedin.com/in/monroe-stone-0a7920137/)
 - GitHub: [github.com/StoneHub](https://github.com/StoneHub)
-- email: monroes.awesome@gmail.com
+- email: monroe@flyingchangesfarm.net
