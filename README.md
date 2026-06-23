@@ -1,6 +1,6 @@
 # Monroe Stone
 
-Software engineer focused on Android, cloud-backed applications, automation, and practical systems work.
+Platform and mobile software engineer focused on Android, DevX, automation, cloud-backed applications, and practical systems work.
 
 I build tools that have to survive real operating conditions: mobile clients, APIs, deployment workflows, data cleanup, internal automation, and the connective tissue between them. My work spans enterprise engineering, cloud development, automation/RPA, hands-on systems support, and independent product development.
 
@@ -23,6 +23,7 @@ I also run FlyingChanges Farm, which keeps my engineering bias grounded in day-t
 ## Selected Links
 
 - Portfolio: [monroes.tech](https://monroes.tech)
+- Resume portal: [monroes.info](https://monroes.info)
 - Software catalog: [monroes.tech/software](https://monroes.tech/software)
 - Flying Changes Farm: [flyingchangesfarm.net](https://flyingchangesfarm.net)
 - Portfolio source: [StoneHub/monroes-tech](https://github.com/StoneHub/monroes-tech)
