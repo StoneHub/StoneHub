@@ -16,6 +16,10 @@ Local dictation and transcription for macOS, with searchable transcripts, a CLI,
 - [Apple FM for Terminal](https://github.com/StoneHub/apple-fm-terminal): local zsh command suggestions that you review and accept before execution
 - [Apple FM Swift](https://github.com/StoneHub/apple-fm-swift): a Swift library and JSON completion helper for Apple's on-device Foundation Models
 
+### [Splats](https://splatsviewer.com)
+
+I contribute to Splats, a native Gaussian splat viewer for Mac, iPad, and iPhone, built with SwiftUI and Metal. Explore scenes offline or bring them to your Mac desktop. Available as a TestFlight beta.
+
 ## Background
 
 - Android and Wear OS development with Kotlin and MVVM
