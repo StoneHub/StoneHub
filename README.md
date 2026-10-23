@@ -6,9 +6,11 @@ My work spans mobile clients, APIs, cloud-backed applications, deployment workfl
 
 ## Featured projects
 
-### [Jot](https://github.com/StoneHub/jot)
+### [Jot](https://stonehub.github.io/jot/)
 
 Local dictation and transcription for macOS, with searchable transcripts, a CLI, and an MCP server. Built with SwiftUI and on-device speech recognition, with optional Apple Intelligence features. In development.
+
+[Website](https://stonehub.github.io/jot/) · [Source](https://github.com/StoneHub/jot) · [Prerelease builds](https://github.com/StoneHub/jot/releases)
 
 ### Apple Foundation Models tools
 
