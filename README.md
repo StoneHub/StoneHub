@@ -22,6 +22,19 @@ Local dictation and transcription for macOS, with searchable transcripts, a CLI,
 
 I contribute to Splats, a native Gaussian splat viewer for Mac, iPad, and iPhone, built with SwiftUI and Metal. Explore scenes offline or bring them to your Mac desktop. Available as a TestFlight beta.
 
+### Smaller tools
+
+- [Screenshot Renamer](https://github.com/StoneHub/screenshot-renamer): renames macOS screenshots by content using Apple's local Foundation Model
+- [macOS Screenshot MCP](https://github.com/StoneHub/macos-screenshot-mcp): background window screenshots for local agents, with a CLI and MCP server
+- [Safari Agent](https://github.com/StoneHub/safari-agent): explicit Safari tab access for local MCP agents
+- [Surface Dial Control](https://github.com/StoneHub/surface-dial-control): Surface Dial media controls for macOS and Linux
+- [Fan Lever](https://github.com/StoneHub/fan-lever): Mac fan control from the desktop
+
+### Android
+
+- [PickMyRoute](https://github.com/StoneHub/PickMyRoute): navigation that routes through the roads you choose, built with Jetpack Compose, Hilt, and Google Maps
+- [Screen Timeout Tile](https://github.com/StoneHub/screen-timeout-tile): Quick Settings tile that toggles screen timeout
+
 ## Background
 
 - Android and Wear OS development with Kotlin and MVVM
@@ -39,5 +52,4 @@ I contribute to Splats, a native Gaussian splat viewer for Mac, iPad, and iPhone
 
 ## Contact
 
-- [GitHub](https://github.com/StoneHub)
-- Email: monroe@flyingchangesfarm.net
+Email: monroe@flyingchangesfarm.net
